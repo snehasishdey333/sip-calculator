@@ -1,6 +1,7 @@
 # sip_calculator_app
 
 A new Flutter project.
+you can use this app to calculate your mutual fund investments and estimated returns using monthly sip amount.
 
 ## Getting Started
 
